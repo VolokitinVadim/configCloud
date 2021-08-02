@@ -7,7 +7,3 @@
 server:
   port: 8082
 message: "Electronic Billboards Are Awesome!"
-spring:
-	admin:
-		client:
-			url: http://localhost:8080
