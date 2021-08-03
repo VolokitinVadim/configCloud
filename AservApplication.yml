@@ -7,3 +7,6 @@
 server:
   port: 8082
 message: "Electronic Billboards Are Awesome!"
+spring:
+  boot.admin.client:
+    url: http://localhost:8868
