@@ -7,10 +7,6 @@
 # Expose the health endpoint details and make all actuator 
 # end points visible without a password this is NOT recommend in 
 # production but is useful for demos
-spring:
-  boot.admin.client:
-    url: http://localhost:8868
-
 management:
   endpoints:
     web:
