@@ -1,9 +1,9 @@
 server:
   port: 8761
   
-spring:
-  boot.admin.client:
-    url: http://localhost:8868
+#spring:
+#  boot.admin.client:
+#    url: http://localhost:8868
 
 eureka:
   client:
