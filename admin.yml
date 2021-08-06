@@ -1,0 +1,19 @@
+server:
+  port: 8868
+  
+#spring:
+#  boot.admin.client:
+#    url: http://localhost:8868
+
+#eureka:
+#  client:
+#    registerWithEureka: false
+#    fetchRegistry: false
+#  server:
+#    waitTimeInMsWhenSyncEmpty: 0
+  
+#logging:
+#  level:
+#    com.netflix: 'WARN'
+#    org.springframework.cloud: 'WARN'
+
